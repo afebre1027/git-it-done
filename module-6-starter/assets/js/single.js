@@ -1,4 +1,4 @@
-var issueContainerEl = document.querySelector("issues-container");
+var issueContainerEl = document.querySelector("#issues-container");
 
 
 var getRepoIssues = function (repo) {
